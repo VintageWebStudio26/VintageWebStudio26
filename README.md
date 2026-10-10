@@ -62,13 +62,37 @@ Vintage Web Studio specialises in website development, redesigning existing webs
 
 ## 🚀 Projetos | Projects
 
-Estamos a preparar esta área para apresentar websites, demonstrações e projetos digitais.
+## 🍷 Projetos em destaque | Featured Projects
 
-We are preparing this section to showcase websites, demos and digital projects.
+### Pinto Wines — Website & E-commerce
 
-*Portefólio em desenvolvimento — novos projetos em breve.*
+**Português**
 
-*Portfolio in progress — new projects coming soon.*
+Personalização e desenvolvimento de funcionalidades para a loja online Pinto Wines, construída com WordPress e WooCommerce.
+
+O trabalho incluiu código personalizado e melhorias funcionais orientadas para as necessidades do negócio e a experiência de compra online.
+
+**Áreas de trabalho:**
+- Personalização de funcionalidades de e-commerce.
+- Melhorias funcionais e na experiência de utilização.
+- Soluções digitais adaptadas às necessidades do negócio.
+
+**English**
+
+Custom development and functionality enhancements for Pinto Wines, an online wine shop built with WordPress and WooCommerce.
+
+The work included tailored code and functional improvements focused on business requirements and the online shopping experience.
+
+**Areas of work:**
+- E-commerce functionality customisation.
+- Functional and user experience improvements.
+- Digital solutions tailored to business needs.
+
+**Website:** [www.pintowines.ie](https://www.pintowines.ie/)
+
+*Showcase limited to the public-facing website. Private source code, administrative interfaces and confidential client information are not disclosed.*
+
+*Apresentação limitada ao website público. O código-fonte privado, as interfaces administrativas e a informação confidencial do cliente não são divulgados.*
 
 ---
 
